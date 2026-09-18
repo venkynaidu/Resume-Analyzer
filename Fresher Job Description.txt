@@ -1,0 +1,39 @@
+Job Title: Junior AI & Data Science Engineer – Fresher
+
+Job Description:
+
+We are looking for enthusiastic and motivated fresh graduates to join our team as Junior AI & Data Science Engineers. Candidates should have a strong foundation in Python, data science, machine learning, and artificial intelligence and a willingness to learn new technologies.
+
+Responsibilities:
+- Assist in developing machine learning and data science projects.
+- Collect, clean, preprocess, and analyze datasets.
+- Develop basic machine learning models using Python and Scikit-learn.
+- Perform exploratory data analysis and create meaningful visualizations.
+- Assist senior team members in developing AI and Generative AI applications.
+- Work with Pandas, NumPy, Matplotlib, and Scikit-learn.
+- Write SQL queries to retrieve and analyze data.
+- Participate in model evaluation and performance improvement.
+- Develop small AI/ML projects as part of the development team.
+- Learn and work with modern AI technologies including LLMs, RAG, LangChain, and AI agents.
+- Maintain project documentation and code using Git/GitHub.
+- Collaborate with team members and participate in technical discussions.
+
+Required Skills:
+- Bachelor's degree in Computer Science, Data Science, Artificial Intelligence, Engineering, Mathematics, Statistics, or a related field.
+- Basic knowledge of Python programming.
+- Understanding of Machine Learning concepts.
+- Knowledge of Pandas, NumPy, Matplotlib, and Scikit-learn.
+- Basic knowledge of SQL and databases.
+- Understanding of data preprocessing and exploratory data analysis.
+- Basic understanding of statistics and probability.
+- Familiarity with Git and GitHub.
+- Good analytical and problem-solving skills.
+- Strong interest in Artificial Intelligence and Data Science.
+
+Preferred Skills:
+- Academic or personal projects in AI, Machine Learning, or Data Science.
+- Basic knowledge of Deep Learning and NLP.
+- Familiarity with Generative AI and Large Language Models.
+- Exposure to LangChain, RAG, or AI agents.
+- Familiarity with Google Gemini or other LLM APIs.
+- Internship or certification in AI, Machine Learning, or Data Science.

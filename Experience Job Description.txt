@@ -1,0 +1,37 @@
+Job Title: AI & Data Science Engineer
+
+Job Description:
+
+We are looking for an experienced AI & Data Science Engineer to join our team. The ideal candidate should have hands-on experience in Python, machine learning, deep learning, data analysis, and generative AI.
+
+Responsibilities:
+- Develop and deploy machine learning and deep learning models for real-world business problems.
+- Analyze large datasets and identify meaningful patterns and insights.
+- Build predictive models using supervised and unsupervised learning techniques.
+- Develop AI and Generative AI applications using Large Language Models (LLMs).
+- Work with frameworks such as LangChain, TensorFlow, PyTorch, Scikit-learn, and Pandas.
+- Develop and integrate REST APIs for AI/ML applications.
+- Work with vector databases and implement Retrieval-Augmented Generation (RAG) applications.
+- Perform data preprocessing, feature engineering, model evaluation, and hyperparameter tuning.
+- Deploy machine learning and AI applications using cloud platforms such as AWS, Azure, or Google Cloud.
+- Collaborate with software engineers, data engineers, and business teams.
+- Monitor and improve the performance of deployed AI/ML models.
+
+Required Skills:
+- 3+ years of experience in AI, Machine Learning, or Data Science.
+- Strong programming skills in Python.
+- Strong knowledge of Machine Learning and Deep Learning.
+- Experience with NLP, Generative AI, and LLM applications.
+- Hands-on experience with LangChain and RAG.
+- Experience with TensorFlow or PyTorch.
+- Strong knowledge of Pandas, NumPy, Scikit-learn, and SQL.
+- Experience with REST APIs and Git/GitHub.
+- Experience working with cloud platforms such as AWS, Azure, or Google Cloud.
+- Strong analytical and problem-solving skills.
+
+Preferred Skills:
+- Experience with OpenAI or Google Gemini APIs.
+- Experience with vector databases such as FAISS, Chroma, Pinecone, or Weaviate.
+- Experience developing AI agents and agentic AI applications.
+- Experience with Docker and CI/CD.
+- Experience deploying production-grade AI applications.

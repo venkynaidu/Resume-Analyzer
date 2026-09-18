@@ -1,0 +1,14 @@
+Step 1:
+install --upgrade langchain-google-genai streamlit pypdf2 pydantic
+
+
+Step 2: 
+streamlit run app.py
+
+
+Step3: 
+
+Paste your free Google AI Studio API key into the hidden password field on the sidebar, upload sample resume, paste the target job description, and hit Analyze Resume.
+
+
+Job Description: 
