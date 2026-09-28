@@ -2,7 +2,7 @@ Step 1:
 install --upgrade langchain-google-genai streamlit pypdf2 pydantic
 pip install PyPDF2 google-generativeai streamlit python-dotenv
 
-
+python -m pip show PyPDF2
 
 Step 2: 
 streamlit run app.py
