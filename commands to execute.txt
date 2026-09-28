@@ -14,3 +14,83 @@ Paste your free Google AI Studio API key into the hidden password field on the s
 
 
 Job Description: 
+Experienced: 
+Job Title: AI & Data Science Engineer
+
+Job Description:
+
+We are looking for an experienced AI & Data Science Engineer to join our team. The ideal candidate should have hands-on experience in Python, machine learning, deep learning, data analysis, and generative AI.
+
+Responsibilities:
+- Develop and deploy machine learning and deep learning models for real-world business problems.
+- Analyze large datasets and identify meaningful patterns and insights.
+- Build predictive models using supervised and unsupervised learning techniques.
+- Develop AI and Generative AI applications using Large Language Models (LLMs).
+- Work with frameworks such as LangChain, TensorFlow, PyTorch, Scikit-learn, and Pandas.
+- Develop and integrate REST APIs for AI/ML applications.
+- Work with vector databases and implement Retrieval-Augmented Generation (RAG) applications.
+- Perform data preprocessing, feature engineering, model evaluation, and hyperparameter tuning.
+- Deploy machine learning and AI applications using cloud platforms such as AWS, Azure, or Google Cloud.
+- Collaborate with software engineers, data engineers, and business teams.
+- Monitor and improve the performance of deployed AI/ML models.
+
+Required Skills:
+- 3+ years of experience in AI, Machine Learning, or Data Science.
+- Strong programming skills in Python.
+- Strong knowledge of Machine Learning and Deep Learning.
+- Experience with NLP, Generative AI, and LLM applications.
+- Hands-on experience with LangChain and RAG.
+- Experience with TensorFlow or PyTorch.
+- Strong knowledge of Pandas, NumPy, Scikit-learn, and SQL.
+- Experience with REST APIs and Git/GitHub.
+- Experience working with cloud platforms such as AWS, Azure, or Google Cloud.
+- Strong analytical and problem-solving skills.
+
+Preferred Skills:
+- Experience with OpenAI or Google Gemini APIs.
+- Experience with vector databases such as FAISS, Chroma, Pinecone, or Weaviate.
+- Experience developing AI agents and agentic AI applications.
+- Experience with Docker and CI/CD.
+- Experience deploying production-grade AI applications.
+
+
+Fresher Job Description: 
+Job Title: Junior AI & Data Science Engineer – Fresher
+
+Job Description:
+
+We are looking for enthusiastic and motivated fresh graduates to join our team as Junior AI & Data Science Engineers. Candidates should have a strong foundation in Python, data science, machine learning, and artificial intelligence and a willingness to learn new technologies.
+
+Responsibilities:
+- Assist in developing machine learning and data science projects.
+- Collect, clean, preprocess, and analyze datasets.
+- Develop basic machine learning models using Python and Scikit-learn.
+- Perform exploratory data analysis and create meaningful visualizations.
+- Assist senior team members in developing AI and Generative AI applications.
+- Work with Pandas, NumPy, Matplotlib, and Scikit-learn.
+- Write SQL queries to retrieve and analyze data.
+- Participate in model evaluation and performance improvement.
+- Develop small AI/ML projects as part of the development team.
+- Learn and work with modern AI technologies including LLMs, RAG, LangChain, and AI agents.
+- Maintain project documentation and code using Git/GitHub.
+- Collaborate with team members and participate in technical discussions.
+
+Required Skills:
+- Bachelor's degree in Computer Science, Data Science, Artificial Intelligence, Engineering, Mathematics, Statistics, or a related field.
+- Basic knowledge of Python programming.
+- Understanding of Machine Learning concepts.
+- Knowledge of Pandas, NumPy, Matplotlib, and Scikit-learn.
+- Basic knowledge of SQL and databases.
+- Understanding of data preprocessing and exploratory data analysis.
+- Basic understanding of statistics and probability.
+- Familiarity with Git and GitHub.
+- Good analytical and problem-solving skills.
+- Strong interest in Artificial Intelligence and Data Science.
+
+Preferred Skills:
+- Academic or personal projects in AI, Machine Learning, or Data Science.
+- Basic knowledge of Deep Learning and NLP.
+- Familiarity with Generative AI and Large Language Models.
+- Exposure to LangChain, RAG, or AI agents.
+- Familiarity with Google Gemini or other LLM APIs.
+- Internship or certification in AI, Machine Learning, or Data Science.
